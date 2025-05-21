@@ -20,8 +20,7 @@ If you want you can visit my [portfolio]https://github.com/thiagobrasileiro
 - 👨🏻‍💻 Like programming and gaming
 - 🧠 Like sharing knowledge
 - 🌌 Passionate for soccer and gaming
-- ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via luisg.juliao@gmail.com
+- 📧 Reach me via thiagobrasileiro919@gmail.com
 
 <br>
 <br>
