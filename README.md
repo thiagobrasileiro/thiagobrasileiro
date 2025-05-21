@@ -18,7 +18,7 @@ If you want you can visit my [portfolio]https://github.com/thiagobrasileiro
 
 - 🌎 I'm from Brazil
 - 👨🏻‍💻 Like programming and gaming
-- 🧠 Love sharing knowledge
+- 🧠 Like sharing knowledge
 - 🌌 Passionate for astronomy
 - ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via luisg.juliao@gmail.com
