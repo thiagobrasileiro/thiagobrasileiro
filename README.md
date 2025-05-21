@@ -17,7 +17,7 @@ If you want you can visit my [portfolio]https://github.com/thiagobrasileiro
 <img src="./images/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Brazil
-- 👨🏻‍💻 Love programming and gaming
+- 👨🏻‍💻 Like programming and gaming
 - 🧠 Love sharing knowledge
 - 🌌 Passionate for astronomy
 - ✈️ Traveling is one of my favorite hobbies
