@@ -6,7 +6,7 @@ I'm a front-and and back-and developer!
 
 I've been working and studying technology since 2025, and during this time I worked with diverse types of projects like web programming, app programming and sistens progamming
 
-What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
+
 
 If you want you can visit my [portfolio](https://luisoila.dev/)
 
