@@ -2,9 +2,9 @@
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=thiago-brasileiroj&style=flat-square&color=blueviolet">
 
-I'm a front-end developer!
+I'm a front-and and back-and developer!
 
-I've been working and studying technology since 2018, and during this time I worked with diverse types of projects like gaming programming, web programming, app programming
+I've been working and studying technology since 2025, and during this time I worked with diverse types of projects like gaming programming, web programming, app programming
 
 What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
 
