@@ -8,7 +8,7 @@ I've been working and studying technology since 2025, and during this time I wor
 
 
 
-If you want you can visit my [portfolio](https://github.com/thiagobrasileiro
+If you want you can visit my [portfolio]https://github.com/thiagobrasileiro
 
 ## 👨🏻‍💻 About me
 
