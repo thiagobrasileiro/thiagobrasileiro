@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=thiago-brasileiroj&style=flat-square&color=blueviolet">
+# 🖖 Hey guys! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=thiago-brasileiroj&style=flat-square&color=blueviolet">
 
 I'm a front-and and back-and developer!
 
