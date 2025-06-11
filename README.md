@@ -2,7 +2,7 @@
 
 # 🖖 Hey guys! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=thiago-brasileiroj&style=flat-square&color=blueviolet">
 
-I'm a developer in systens!
+I'm a developer systens!
 
 I've been working and studying technology since 2025, and during this time I worked with diverse types of projects like web programming, app programming and sistens progamming
 
