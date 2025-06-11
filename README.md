@@ -4,7 +4,7 @@
 
 I'm a systems development technician!
 
-I've been working and studying technology since 2025, and during this time I worked with diverse types of projects like web programming, app programming and sistens progamming
+I've been working and studying technology since 2025, and during this time I worked with diverse types of projects like web programming, app programming and systens progamming
 
 
 
