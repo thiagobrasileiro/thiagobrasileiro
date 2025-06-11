@@ -2,7 +2,7 @@
 
 # 🖖 Hey guys! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=thiago-brasileiroj&style=flat-square&color=blueviolet">
 
-I'm a front-and and back-and developer!
+I'm a developer!
 
 I've been working and studying technology since 2025, and during this time I worked with diverse types of projects like web programming, app programming and sistens progamming
 
